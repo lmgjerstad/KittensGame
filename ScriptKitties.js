@@ -165,6 +165,7 @@ var htmlMenuAddition = '<div id="farRightColumn" class="column">' +
 '<option value="priest">Priest</option>' +
 '<option value="miner">Miner</option>' +
 '<option value="hunter">Hunter</option>' +
+'<option value="geologist">Geologist</option>' +
 '<option value="engineer">Engineer</option>' +
 '</select></br>' +
 
